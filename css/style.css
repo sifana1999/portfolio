@@ -246,6 +246,7 @@ section{
 }
 .about-content{
     padding: 3rem 0;
+    width: 100%;
 }
 
 .about-content h1{
