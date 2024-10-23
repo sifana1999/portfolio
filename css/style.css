@@ -181,6 +181,8 @@ section{
     transition: .4s;
     border-radius: 50%;
     z-index: 1;
+    margin: 10px;
+    border: none;
 }
 .social-media a:hover{
     background: blue;
@@ -207,8 +209,7 @@ section{
 }
 
 .img-sc{
-    position: relative;
-    
+    position: relative;  
     
 }
 
