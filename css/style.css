@@ -1,5 +1,5 @@
 *{
-    padding: 0;
+   
     margin: 0;
     box-sizing: border-box;
     list-style: none;
@@ -432,7 +432,7 @@ section{
 
 .project-gallery{
     display: grid;
-    
+    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
     height: auto;
    
